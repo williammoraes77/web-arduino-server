@@ -1,0 +1,19 @@
+{
+  "name": "dois-caminhos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@serialport/stream": "^11.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "serialport": "^8.0.8",
+    "websocket": "^1.0.34",
+    "ws": "^8.14.2"
+  }
+}
